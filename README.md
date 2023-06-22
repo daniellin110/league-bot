@@ -6,3 +6,5 @@ The token for the Discord bot must be added to config.py. You will also need the
 
 # Use:
 To call the bot while it's running, enter the command '!update' followed by the Lichess game link (e.g. !update https://lichess.org/VyZuWcWa). If the given link is valid and the players are matched together in the current round of the tournament, then the result will be added to the website.
+
+![](screenshots/example.png)
